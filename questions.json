@@ -1,0 +1,96 @@
+[
+  {
+    "image": "apple.jpg",
+    "options": ["Banana", "Apple", "Mango", "Orange"],
+    "answer": "Apple"
+  },
+  {
+    "image": "car.jpg",
+    "options": ["Bike", "Car", "Bus", "Train"],
+    "answer": "Car"
+  },
+    { "image": "moon.jpg", "options": ["Earth", "Sun", "Star","Moon"], "answer": "Moon" },
+    {"image": "cow.jpg", "options": ["Shark", "Fish", "Whale","Cow"], "answer": "Cow" },
+    { "image": "dog.jpg", "options": ["Bird", "Cow", "Dog","Cat"], "answer": "Dog" },
+ 
+    { "image": "sun.jpg", "options": ["Bulb", "Sun", "Moon","Star"], "answer": "Sun" },
+ 
+   
+  {
+    "image": "banana.jpg",
+    "options": ["apple", "banana", "grapes", "orange"],
+    "answer": "banana"
+  },
+  {
+    "image": "ball.jpg",
+    "options": ["doll", "bat", "ball", "car"],
+    "answer": "ball"
+  },
+  {
+    "image": "cat.jpg",
+    "options": ["dog", "cat", "cow", "tiger"],
+    "answer": "cat"
+  },
+  {
+    "image": "tree.jpg",
+    "options": ["tree", "flower", "grass", "bush"],
+    "answer": "tree"
+  },
+  
+  {
+    "image": "fish.jpg",
+    "options": ["shark", "fish", "whale", "frog"],
+    "answer": "fish"
+  },
+  {
+    "image": "frog.jpg",
+    "options": ["snake", "frog", "lizard", "turtle"],
+    "answer": "frog"
+  },
+  {
+    "image": "orange.jpg",
+    "options": ["apple", "orange", "banana", "grapes"],
+    "answer": "orange"
+  },
+  {
+    "image": "elephant.jpg",
+    "options": ["lion", "tiger", "elephant", "rhino"],
+    "answer": "elephant"
+  },
+  {
+    "image": "lion.jpg",
+    "options": ["cat", "lion", "dog", "bear"],
+    "answer": "lion"
+  },
+  {
+    "image": "pencil.jpg",
+    "options": ["pen", "marker", "pencil", "brush"],
+    "answer": "pencil"
+  },
+  {
+    "image": "bus.jpg",
+    "options": ["car", "van", "bus", "train"],
+    "answer": "bus"
+  },
+  {
+    "image": "train.jpg",
+    "options": ["car", "bike", "train", "plane"],
+    "answer": "train"
+  },
+  {
+    "image": "balloon.jpg",
+    "options": ["kite", "ball", "balloon", "plane"],
+    "answer": "balloon"
+  },
+  {
+    "image": "duck.jpg",
+    "options": ["chick", "duck", "bird", "hen"],
+    "answer": "duck"
+  },
+  {
+    "image": "cake.jpg",
+    "options": ["pizza", "cake", "bread", "cookie"],
+    "answer": "cake"
+  }
+]
+

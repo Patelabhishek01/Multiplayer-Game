@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Multiplayer Quiz</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <div id="startScreen">
+    <h1>Enter Your Nickname</h1>
+    <input type="text" id="nickname" placeholder="Your name" />
+    <button onclick="joinGame()">Play Game</button>
+  </div>
+
+  <div id="game" class="hidden"></div>
+  <div id="result" class="hidden"></div>
+
+  <audio id="correctSound" src="/sounds/correct.mp3"></audio>
+  <audio id="wrongSound" src="/sounds/wrong.mp3"></audio>
+  <audio id="winSound" src="/sounds/win.mp3"></audio>
+
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="/client.js"></script>
+</body>
+</html>
